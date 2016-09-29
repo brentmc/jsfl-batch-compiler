@@ -1,0 +1,11 @@
+Remember to now batch compile using these .jsfl files.
+
+The files here are only here so they can be tracked by git. To get the Commands to update in Flash you ned to copy these files to Users/Library(hidden folder)/Application Support/Adobe/Flash CS6/en_US/Configuration/Commands/LiteracyPlanet
+
+Once the files are in the correct location you can run them in the Flash IDE by clicking
+
+Flash Menu Bar/Commands/LiteracyPlanet ... 
+
+For 1.5 You can navigate to /development or /development/Application
+
+It doesn't matter because the code will search through ALL subfolders of whatver you choose *except for the blacklist folders of course
